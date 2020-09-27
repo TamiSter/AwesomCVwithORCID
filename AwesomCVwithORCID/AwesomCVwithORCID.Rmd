@@ -1,5 +1,5 @@
 ---
-name: Tamara Ernestina
+name: Tamara
 surname: Sternlieb
 position: "PhD"
 address: "Ciudad de Buenos Aires, Argentina"
